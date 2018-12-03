@@ -1,0 +1,16 @@
+**************MBK8303***********
+There are two types of Fucntionality.
+*First is Dapper
+*Second DapperfastCrud
+
+
+*********Dapper*******
+*Dapper support Identity column
+*There is no need to find MAXID of table for Insertion.
+
+**********Dapper FastCrud*******
+*DapperFast does not support Identity Column
+*There is need to find MAXID before insertion.
+
+
+****All things are same in both**** 
